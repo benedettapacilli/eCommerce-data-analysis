@@ -20,9 +20,9 @@ The project analyzes e-commerce data with the following key metrics:
 - Performance logging and timing
 
 ## Dataset
-*Name:* eCommerce Behavior Data from Multi-Category Store
-*Source:* [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data)
-*Size:* ~15GB
+*Name:* eCommerce Behavior Data from Multi-Category Store<br>
+*Source:* [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data)<br>
+*Size:* ~15GB<br>
 *Description:* The dataset contains user interactions such as views, add/remove to/from cart and purchases on various products across multiple categories. The data includes timestamps, user IDs, session IDs, product IDs, and categories, making it suitable for detailed behavioral analysis.
 
 ## Project Structure
